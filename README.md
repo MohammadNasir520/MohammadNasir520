@@ -110,6 +110,6 @@ As an experienced full-stack developer, I always consider the worst possible out
 # 📊 GitHub Stats:
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MohammandNasir520&hide_border=true&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammandNasir520&hide_border=true&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu)](https://git.io/streak-stats)
 
 </div>
