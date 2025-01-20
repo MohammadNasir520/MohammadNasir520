@@ -61,7 +61,7 @@ I'm an experienced full-stack developer specializing in building robust MERN sta
     <tr>
         <td align="center">
             <div style="display: flex; justify-content: center; gap: 20px;">
-                <a href="https://www.linkedin.com/in/awal-hossain-0bb650108/">
+                <a href="https://www.linkedin.com/in/mdnasir-uddin/">
                     <img src="https://img.shields.io/twitter/follow/Awal?style=social&logo=linkedin&labelColor=blue" alt="LinkedIn" height="30">
                 </a>
 <!--                 <a href="https://twitter.com/mvkaran">
