@@ -66,7 +66,7 @@ As an experienced full-stack developer, I always consider the worst possible out
     <tr>
         <td align="center">
             <div style="display: flex; justify-content: center; gap: 20px;">
-                <a href="https://www.linkedin.com/in/mdnasir-uddin/">
+                <a href="https://www.linkedin.com/in/mdnasir-uddin/"> MD. Nasir Uddin </a>
 
      
 </table>
