@@ -60,7 +60,7 @@ As an experienced full-stack developer, I always consider the worst possible out
 <table align="center"  border="0">
     <tr>
         <td align="center">
-            <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="center" height="150">
+<!--             <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="center" height="150"> -->
         </td>
     </tr>
     <tr>
