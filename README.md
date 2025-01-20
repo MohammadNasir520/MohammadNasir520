@@ -8,7 +8,7 @@ As an experienced full-stack developer, I always consider the worst possible out
 <table   border="0" align="center" style="margin-top: 50px; margin-bottom: 50px;">
     <tr>
         <td align="center">
-            <img src="https://octodex.github.com/images/catstello.png" align="center" height="200">
+<!--             <img src="https://octodex.github.com/images/catstello.png" align="center" height="200"> -->
         </td>
     </tr>
     <tr>
