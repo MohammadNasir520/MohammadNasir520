@@ -35,7 +35,7 @@ As an experienced full-stack developer, I always consider the worst possible out
 <table  border="0" align="center" style="margin-top: 50px; margin-bottom: 50px;">
     <tr>
         <td align="center">
-            <img src="https://octodex.github.com/images/gangnamtocat.png" align="center" height="150">
+<!--             <img src="https://octodex.github.com/images/gangnamtocat.png" align="center" height="150"> -->
         </td>
     </tr>
     <tr>
