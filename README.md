@@ -45,7 +45,7 @@ As an experienced full-stack developer, I always consider the worst possible out
     </tr>
     <tr>
         <td align="center">
-            👨‍💻 All of my projects are available at <a https://mdnasir-uddin.vercel.app/>https://mdnasir-uddin.vercel.app/</a>
+            👨‍💻 All of my projects are available at <a "https://mdnasir-uddin.vercel.app/">MD. Nasir Uddin</a>
         </td>
     </tr>
     <tr>
@@ -110,6 +110,6 @@ As an experienced full-stack developer, I always consider the worst possible out
 # 📊 GitHub Stats:
 <div align="center">
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=awalhossain&theme=dark&hide_border=false)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MohammandNasir520&hide_border=true&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu" alt="GitHub Streak" /></a>
 
 </div>
