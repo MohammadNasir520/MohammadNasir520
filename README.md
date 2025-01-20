@@ -1,6 +1,6 @@
 
 
-# Greetings 👋 From a Full-Stack Developer Awal.
+# Greetings 👋 From a Full-Stack Developer MD. Nasir Uddin.
 
 As an experienced full-stack developer, I always consider the worst possible outcome, which allows me to mitigate potential issues and this approach helps me minimize potential problems and transform them into more positive outcomes. My expertise lies in building robust MERN stack applications and crafting engaging user interfaces. I'm currently seeking new opportunities to bring my skills to a forward-thinking team.
 
@@ -18,7 +18,7 @@ As an experienced full-stack developer, I always consider the worst possible out
     </tr>
     <tr>
         <td align="center">
-            Learning DevOps and other JS frameworks 📖
+            Learning C, C++ and other JS frameworks 📖
         </td>
     </tr>
     <tr>
