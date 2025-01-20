@@ -110,6 +110,6 @@ As an experienced full-stack developer, I always consider the worst possible out
 # 📊 GitHub Stats:
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadNasir520DenverCoder1)](https://git.io/streak-stats)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=awalhossain&theme=dark&hide_border=false)
 
 </div>
