@@ -26,16 +26,8 @@ As an experienced full-stack developer, I always consider the worst possible out
             NodeJs and ReactJs are my superpowers 🦾
         </td>
     </tr>
-    <tr>
-        <td align="center">
-            Cloud, containers is where I go deep 🕵️
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            You can find me in action with GitHub Actions :octocat:
-        </td>
-    </tr>
+   
+   
 </table>
 <br/>
 
@@ -48,12 +40,12 @@ As an experienced full-stack developer, I always consider the worst possible out
     </tr>
     <tr>
         <td align="center">
-            🔭 I’m currently working on <a href="https://github.com/AwalHossain/Video_Streaming_With_MERN">Mern Video Streaming Project</a>
+            🔭 I’m currently working on <a href="https://exam-f478a.web.app/">Quize Giving Website</a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            👨‍💻 All of my projects are available at <a href="https://awalhossain.tech/">https://awalhossain.tech</a>
+            👨‍💻 All of my projects are available at <a https://mdnasir-uddin.vercel.app/>https://mdnasir-uddin.vercel.app/</a>
         </td>
     </tr>
     <tr>
@@ -74,15 +66,9 @@ As an experienced full-stack developer, I always consider the worst possible out
     <tr>
         <td align="center">
             <div style="display: flex; justify-content: center; gap: 20px;">
-                <a href="https://www.linkedin.com/in/awal-hossain-0bb650108/">
-                    <img src="https://img.shields.io/twitter/follow/Awal?style=social&logo=linkedin&labelColor=blue" alt="LinkedIn" height="30">
-                </a>
-<!--                 <a href="https://twitter.com/mvkaran">
-                    <img src="https://img.shields.io/twitter/follow/Awal?style=social&logo=X&labelColor=blue" alt="Twitter" height="30">
-                </a> -->
-            </div>
-        </td>
-    </tr>
+                <a href="https://www.linkedin.com/in/mdnasir-uddin/">
+
+     
 </table>
 
 
@@ -113,11 +99,12 @@ As an experienced full-stack developer, I always consider the worst possible out
         </td>
         </tr>
           <td align="center">
-            <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-            <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure">
-            <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean">
-            <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+               <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+         
+     
+            
+           
+           
 </table>
 
 # 📊 GitHub Stats:
