@@ -1,108 +1,115 @@
+
+
+# Greetings 👋 From a Full-Stack Developer MD. Nasir Uddin.
+
+As an experienced full-stack developer, I always consider the worst possible outcome, which allows me to mitigate potential issues and this approach helps me minimize potential problems and transform them into more positive outcomes. My expertise lies in building robust MERN stack applications and crafting engaging user interfaces. I'm currently seeking new opportunities to bring my skills to a forward-thinking team.
+
+## The developer side of me
+<table   border="0" align="center" style="margin-top: 50px; margin-bottom: 50px;">
+    <tr>
+        <td align="center">
+<!--             <img src="https://octodex.github.com/images/catstello.png" align="center" height="200"> -->
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            Javascript 🇯‌🇸‌ is my first love 💙. I also write in Typescript.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            Learning C, C++ and other JS frameworks 📖
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            NodeJs and ReactJs are my superpowers 🦾
+        </td>
+    </tr>
+   
+   
+</table>
+<br/>
+
+ ## Developing
+<table  border="0" align="center" style="margin-top: 50px; margin-bottom: 50px;">
+    <tr>
+        <td align="center">
+<!--             <img src="https://octodex.github.com/images/gangnamtocat.png" align="center" height="150"> -->
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            🔭 I’m currently working on <a href="https://exam-f478a.web.app/">Quize Giving Website</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            👨‍💻 All of my projects are available at <a "https://mdnasir-uddin.vercel.app/">"https://mdnasir-uddin.vercel.app/"</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB**
+        </td>
+    </tr>
+</table>
+
+## Connect with me
+
+<table align="center"  border="0">
+    <tr>
+        <td align="center">
+<!--             <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="center" height="150"> -->
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <div style="display: flex; justify-content: center; gap: 20px;">
+                <a href="https://www.linkedin.com/in/mdnasir-uddin/"> MD. Nasir Uddin </a>
+
+     
+</table>
+
+
+# 💻 Tech Stack:
+<table align="center" border="0">
+    <tr>
+        <td align="center">
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
+<!--             <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"> -->
+            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS">
+            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs">
+            <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+        </td>
+    </tr>
+    <!-- Add more rows as needed -->
+    <tr>
+      <td align="center">
+<!--             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"> -->
+            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
+<!--             <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"> -->
+        </td>
+        </tr>
+          <td align="center">
+               <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+         
+     
+            
+           
+           
+</table>
+
+# 📊 GitHub Stats:
 <div align="center">
 
-# Md. Nasir Uddin
-
-**Full-Stack Engineer · AI Application Developer**
-
-*Building intelligent, production-grade systems at [Ziarah.io](https://github.com/ziarah-io)*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadnasir5200)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammadnasir5200@gmail.com)
-![Location](https://img.shields.io/badge/Dinajpur%2C%20Bangladesh-4285F4?style=flat&logo=googlemaps&logoColor=white)
-
-</div>
-
----
-
-## About
-
-I'm a full-stack engineer specializing in AI-powered web and mobile applications. My current focus is on the **Ziarah Travel AI** platform — an end-to-end AI travel assistant that combines multi-agent LLM pipelines, real-time collaboration, and cross-platform delivery (web + mobile).
-
-I work across the full product stack: Next.js frontends, TypeScript microservices, LangChain/LangGraph AI agents, and React Native mobile apps.
-
----
-
-## Tech Stack
-
-**Languages & Runtimes**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-
-**Backend & APIs**
-
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-
-**AI & LLM**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6600?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-**Data & Infrastructure**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-**Observability & Quality**
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=flat&logo=posthog&logoColor=white)
-
----
-
-## Featured Projects
-
-### Ziarah Travel AI
-
-An AI-powered travel planning platform that generates personalized itineraries, enables real-time trip collaboration, and supports voice interactions — delivered across web and mobile.
-
-- **AI Layer:** Multi-agent pipelines using LangChain & LangGraph with MongoDB-backed checkpointing
-- **Web:** Next.js 14 with App Router, i18n (Arabic/English), Google Maps & Mapbox integration, Twilio voice
-- **Mobile:** React Native (Expo) with biometric auth, ML Kit, offline support, and Firebase push notifications
-- **Services:** Microservice architecture with Express, Redis caching, Socket.IO real-time updates, and OpenTelemetry tracing
-
-### Examination Academy
-
-A full-stack academic assessment platform for managing exams, results, and student progress.
-
-- **Frontend:** Next.js, Redux Toolkit, KaTeX math rendering, interactive analytics dashboards
-- **Backend:** Express, MongoDB, JWT auth, Zod validation, rate limiting, and cron-based scheduling
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadNasir5200&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNasir5200&layout=compact&theme=github_dark&hide_border=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to interesting collaborations and engineering conversations.*
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasir520&theme=dark&hide_border=false)
 
 </div>
