@@ -1,115 +1,124 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=MD.%20Nasir%20Uddin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mdnasir-uddin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://mdnasir-uddin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MohammadNasir520&style=flat-square&color=4f46e5" />
+</div>
 
-# Greetings 👋 From a Full-Stack Developer MD. Nasir Uddin.
-
-As an experienced full-stack developer, I always consider the worst possible outcome, which allows me to mitigate potential issues and this approach helps me minimize potential problems and transform them into more positive outcomes. My expertise lies in building robust MERN stack applications and crafting engaging user interfaces. I'm currently seeking new opportunities to bring my skills to a forward-thinking team.
-
-## The developer side of me
-<table   border="0" align="center" style="margin-top: 50px; margin-bottom: 50px;">
-    <tr>
-        <td align="center">
-<!--             <img src="https://octodex.github.com/images/catstello.png" align="center" height="200"> -->
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            Javascript 🇯‌🇸‌ is my first love 💙. I also write in Typescript.
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            Learning C, C++ and other JS frameworks 📖
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            NodeJs and ReactJs are my superpowers 🦾
-        </td>
-    </tr>
-   
-   
-</table>
 <br/>
 
- ## Developing
-<table  border="0" align="center" style="margin-top: 50px; margin-bottom: 50px;">
-    <tr>
-        <td align="center">
-<!--             <img src="https://octodex.github.com/images/gangnamtocat.png" align="center" height="150"> -->
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            🔭 I’m currently working on <a href="https://exam-f478a.web.app/">Quize Giving Website</a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            👨‍💻 All of my projects are available at <a "https://mdnasir-uddin.vercel.app/">"https://mdnasir-uddin.vercel.app/"</a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB**
-        </td>
-    </tr>
+Full-stack developer with hands-on experience across the entire web stack — REST APIs, React/Next.js frontends, and database design with both MongoDB and PostgreSQL. TypeScript is my daily driver on both sides of the stack.
+
+Beyond web development, I take problem solving seriously. I practice competitive programming in C++ every single day on Codeforces and track every session in my **[Problem-Solving](https://github.com/MohammadNasir520/Problem-Solving)** repo — each day has its own folder with the problem, my solution, and test cases. It's not just practice; it's how I sharpen the way I think about code. Also exploring Python for machine learning on the side.
+
+---
+
+## What I work with
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**Frontend**
+- React, Next.js
+- Redux / RTK Query, Zustand
+- React Hook Form, Zod
+- Tailwind CSS, HTML5, CSS3
+
+  </td>
+  <td valign="top" width="33%">
+
+**Backend**
+- Node.js, Express
+- NestJS
+- REST APIs, NextAuth
+- node-cron, Socket.io
+
+  </td>
+  <td valign="top" width="33%">
+
+**Data & Cloud**
+- MongoDB, PostgreSQL
+- Prisma, Mongoose
+- Redis
+- Firebase, Strapi
+
+  </td>
+  </tr>
 </table>
 
-## Connect with me
+**Languages**
 
-<table align="center"  border="0">
-    <tr>
-        <td align="center">
-<!--             <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="center" height="150"> -->
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <div style="display: flex; justify-content: center; gap: 20px;">
-                <a href="https://www.linkedin.com/in/mdnasir-uddin/"> MD. Nasir Uddin </a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-     
-</table>
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-# 💻 Tech Stack:
-<table align="center" border="0">
-    <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
-<!--             <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"> -->
-            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS">
-            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs">
-            <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-        </td>
-    </tr>
-    <!-- Add more rows as needed -->
-    <tr>
-      <td align="center">
-<!--             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"> -->
-            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb">
-<!--             <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"> -->
-        </td>
-        </tr>
-          <td align="center">
-               <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-         
-     
-            
-           
-           
-</table>
+**Backend**
 
-# 📊 GitHub Stats:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+**Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Projects
+
+**[Exam.com](https://github.com/MohammadNasir520/Exam.com-client)** — Online exam platform with a dedicated [TypeScript backend](https://github.com/MohammadNasir520/Exam.com-server)
+
+**[Trust Bank](https://github.com/MohammadNasir520/Trust_Bank_Frontend)** — Banking web app — [frontend](https://github.com/MohammadNasir520/Trust_Bank_Frontend) + [backend](https://github.com/MohammadNasir520/Trust_Bank_Backend)
+
+**[Tution Service](https://github.com/MohammadNasir520/Tution-service-frontend)** — Next.js tutoring platform with a [Node.js API](https://github.com/MohammadNasir520/tution-service-backend)
+
+**[University Management System](https://github.com/MohammadNasir520/university-management-auth-service)** — Multi-service architecture: [auth](https://github.com/MohammadNasir520/university-management-auth-service), [Redis API gateway](https://github.com/MohammadNasir520/Redis-lerning-university-management-api-gateway), [React frontend](https://github.com/MohammadNasir520/university-management-frontend)
+
+**[BookCenter](https://github.com/MohammadNasir520/BookCenter_React_Redux)** — Book catalog with Redux + [Express server](https://github.com/MohammadNasir520/BookCenter_React_Redux_Server). Also a [Prisma + PostgreSQL version](https://github.com/MohammadNasir520/Book-catelog-backend-prisma-SQL)
+
+**[AirCnc](https://github.com/MohammadNasir520/AirCnc)** — Airbnb-style rental app — [client](https://github.com/MohammadNasir520/AirCnc) + [server](https://github.com/MohammadNasir520/AirCncServer)
+
+**[PC Builder](https://github.com/MohammadNasir520/pc-builder-next.js-redux)** — Next.js + Redux app for configuring PC builds
+
+**[Problem Solving](https://github.com/MohammadNasir520/Problem-Solving)** — Daily C++ practice on Codeforces. Every session has its own folder with problem, solution and test cases
+
+---
+
+## Stats
+
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasir520&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNasir520&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasir520&theme=dark&hide_border=false)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=100&section=footer" />
 </div>
